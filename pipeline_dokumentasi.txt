@@ -1,0 +1,5 @@
+Pipeline Dokumentasi:
+A. Pengambilan dan Integrasi Data
+B. Data Cleaning
+C. Data Eksplorasi
+D. Data Publishing
